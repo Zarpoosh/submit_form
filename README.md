@@ -14,5 +14,5 @@
 
 
 <h1>
-  <a href="https://submit-form-one.vercel.app/">Visit site :)</a>
+  <a href="https://submit-form-one.vercel.app/">Click here to visit site :)</a>
 </h1>
