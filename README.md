@@ -1,4 +1,4 @@
-<h1>Hey there :)) ! </h1>
+<h1>Hey their :)) ! </h1>
 
 <p>its my first project with Type script & im very happy :)))
 </p><br>
